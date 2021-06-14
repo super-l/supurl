@@ -39,7 +39,7 @@ Supurl，是新一代的关键词URL采集系统。可完美突破所有搜索�
 - 灵活的导出功能，同时支持导出excel表格csv、json、txt等文件；
 - 强大的HTTP API推送接口功能，可实现采集结果的推送。可进行二次开发拓展，对接到自己的接口，灵活存储与自定义结果。
 
-### 后台截图
+### 会员后台截图
 
 ![登录页面](images/login.png)
 ![会员首页](images/home.png)
@@ -49,12 +49,15 @@ Supurl，是新一代的关键词URL采集系统。可完美突破所有搜索�
 ![域名过滤方案管理页面](images/filter-domain.png)
 ![标题过滤方案管理页面](images/filter-title.png)
 
-
 ### 采集客户端运行截图
 
+![运行1](images/run1.png)
+![运行2](images/run2.png)
+![运行3](images/run3.png)
 
 ### 演示视频
 
+暂无
 
 ### 功能一览
 
