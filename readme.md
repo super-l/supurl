@@ -5,8 +5,7 @@
 
 ### 系统简介
 
-Supurl，是新一代的关键词URL采集系统。
-
+Supurl，是新一代的关键词URL采集系统。可完美突破所有搜索引擎的反爬虫机制！
 
 可根据用户录入的关键词，自动化的使用全网主流的多个搜索引擎(包括但不限于百度、谷歌、必应、搜狗、搜搜等)，获取搜索引擎的返回结果进行统一采集与处理的一款程序。采集与处理的信息包括但不限于真实URL地址、排名、标题等。
 
@@ -42,8 +41,13 @@ Supurl，是新一代的关键词URL采集系统。
 
 ### 后台截图
 
-![登录页面](images/logo.png)
+![登录页面](images/login.png)
+![会员首页](images/home.png)
 ![任务列表页面](images/urltask_list.png)
+![任务添加页面](images/urltask_add.png)
+![推送方案管理页面](images/push.png)
+![域名过滤方案管理页面](images/filter-domain.png)
+![标题过滤方案管理页面](images/filter-title.png)
 
 
 ### 采集客户端运行截图
