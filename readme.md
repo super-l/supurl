@@ -1,6 +1,9 @@
 ### 最新公告
-- 2021-06-21 ：supurl-depth v1.0 上线！用于高并发大规模的域名深度采集，每天可采百万-千万域名；
-- 2021-06-10 ：supurl v1.0 已上线！用于关键词精准采集；
+```
+2021-06-21 ：supurl-depth v1.0 上线！用于高并发大规模的域名深度采集，每天可采百万-千万域名；
+
+2021-06-10 ：supurl v1.0 已上线！用于关键词精准采集；
+```
 
 ### 系统简介
 
@@ -27,16 +30,16 @@ supurl为系列产品。有多个版本，面向的用户不同。
 
 | 产品名称 | 产品编码 | 收费方式 | 说明 |
 | :------| :------: | :------: |:------: |
-| supurl | supurl | 按月收费| 用于指定关键词的精准采集，支持所有主流搜索引擎，带网站管理后台；可获得标题，对应搜索引擎的排名，网页URL，域名等多种信息，支持自定义API推送接口，支持自定义多种过滤方案 |
-| supurl-depth | depth01| 按月收费 | 用于批量指定关键词的大规模深度采集，自动拓展相关词。每天可采集千万条域名。支持百度 + 必应搜索引擎；只采集域名，自动重复过滤。|
+| supurl | supurl | 按月| 用于指定关键词的精准采集，支持所有主流搜索引擎，带网站管理后台；可获得标题，对应搜索引擎的排名，网页URL，域名等多种信息，支持自定义API推送接口，支持自定义多种过滤方案 |
+| supurl-depth | depth01| 按月 | 用于批量指定关键词的大规模深度采集，自动拓展相关词。每天可采集千万条域名。支持百度 + 必应搜索引擎；只采集域名，自动重复过滤。|
 
 #### 关于supurl的更多介绍
 
-https://github.com/super-l/supurl/supurl/supurl.md
+https://github.com/super-l/supurl/tree/main/supurl
 
 #### 关于supurl-depth的更多介绍
 
-https://github.com/super-l/supurl/supurl-depth/readme.md
+https://github.com/super-l/supurl/tree/main/supurl-depth
 
 
 ### 系统优势
