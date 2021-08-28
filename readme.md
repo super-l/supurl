@@ -5,6 +5,7 @@
 最后更新时间：2021-8-27
 支持系统：windows、 centos、 ubuntu、 mac等
 ```
+github文档可能更新延迟，建议查看最新在线文档(有视频演示)：http://www.supurl.net/doc
 
 <video id="video" controls="" width="390" height="300">
   <source id="mp4" src="http://url.2te.cc/supurl-plus/video/0-0.mp4" type="video/mp4">
